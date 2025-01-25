@@ -1,0 +1,2768 @@
+Uri: https://demo.bosathemes.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\index.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/2024/08/16/
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\2024\08\16\index.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/?elementor_library=404-page
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\index-2.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/?elementor_library=archive
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\index-3.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/?elementor_library=search-results
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\index-1.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/author/demoteam/
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\author\demoteam\index.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/author/demoteam/feed/
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\author\demoteam\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://demo.bosathemes.com/hotelor/cart/
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\cart\index.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/category/holiday/
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\category\holiday\index.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/category/holiday/feed/
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\category\holiday\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://demo.bosathemes.com/hotelor/category/hotel/
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\category\hotel\index.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/category/hotel/feed/
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\category\hotel\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://demo.bosathemes.com/hotelor/category/resort/
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\category\resort\index.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/category/resort/feed/
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\category\resort\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://demo.bosathemes.com/hotelor/connect-with-the-second-life-here/
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\connect-with-the-second-life-here\index.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/feed/
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://demo.bosathemes.com/hotelor/if-you-can-call-it-home-can-call-us/
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\if-you-can-call-it-home-can-call-us\index.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/my-account/
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\my-account\index.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/my-account/lost-password/
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\my-account\lost-password\index.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/product-category/beach/
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\product-category\beach\index.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/product-category/beach/?add-to-cart=2866
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\product-category\beach\index-2.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/product-category/beach/?add-to-cart=2868
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\product-category\beach\index-1.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/product-category/beach/?add-to-cart=2870
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\product-category\beach\index-3.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/product-category/beach/feed/
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\product-category\beach\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://demo.bosathemes.com/hotelor/product-category/coupon/
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\product-category\coupon\index.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/product-category/coupon/?add-to-cart=2858
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\product-category\coupon\index-2.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/product-category/coupon/?add-to-cart=2867
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\product-category\coupon\index-1.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/product-category/coupon/?add-to-cart=2869
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\product-category\coupon\index-3.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/product-category/coupon/feed/
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\product-category\coupon\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://demo.bosathemes.com/hotelor/product-tag/bag/
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\product-tag\bag\index.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/product-tag/bag/?add-to-cart=2868
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\product-tag\bag\index-1.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/product-tag/bag/feed/
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\product-tag\bag\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://demo.bosathemes.com/hotelor/product-tag/beach/
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\product-tag\beach\index.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/product-tag/beach/?add-to-cart=2870
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\product-tag\beach\index-1.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/product-tag/beach/feed/
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\product-tag\beach\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://demo.bosathemes.com/hotelor/product-tag/comfort/
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\product-tag\comfort\index.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/product-tag/comfort/?add-to-cart=2866
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\product-tag\comfort\index-2.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/product-tag/comfort/?add-to-cart=2868
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\product-tag\comfort\index-1.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/product-tag/comfort/?add-to-cart=2870
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\product-tag\comfort\index-3.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/product-tag/comfort/feed/
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\product-tag\comfort\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://demo.bosathemes.com/hotelor/product-tag/coupon/
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\product-tag\coupon\index.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/product-tag/coupon/?add-to-cart=2858
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\product-tag\coupon\index-1.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/product-tag/coupon/?add-to-cart=2869
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\product-tag\coupon\index-2.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/product-tag/coupon/feed/
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\product-tag\coupon\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://demo.bosathemes.com/hotelor/product-tag/design/
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\product-tag\design\index.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/product-tag/design/?add-to-cart=2868
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\product-tag\design\index-1.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/product-tag/design/feed/
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\product-tag\design\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://demo.bosathemes.com/hotelor/product-tag/discount/
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\product-tag\discount\index.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/product-tag/discount/?add-to-cart=2858
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\product-tag\discount\index-1.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/product-tag/discount/?add-to-cart=2869
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\product-tag\discount\index-2.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/product-tag/discount/feed/
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\product-tag\discount\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://demo.bosathemes.com/hotelor/product-tag/hotel/
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\product-tag\hotel\index.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/product-tag/hotel/?add-to-cart=2867
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\product-tag\hotel\index-1.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/product-tag/hotel/?add-to-cart=2870
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\product-tag\hotel\index-2.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/product-tag/hotel/feed/
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\product-tag\hotel\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://demo.bosathemes.com/hotelor/product-tag/kids/
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\product-tag\kids\index.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/product-tag/kids/?add-to-cart=2867
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\product-tag\kids\index-1.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/product-tag/kids/feed/
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\product-tag\kids\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://demo.bosathemes.com/hotelor/product-tag/men-wear/
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\product-tag\men-wear\index.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/product-tag/men-wear/?add-to-cart=2866
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\product-tag\men-wear\index-1.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/product-tag/men-wear/feed/
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\product-tag\men-wear\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://demo.bosathemes.com/hotelor/product-tag/resort/
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\product-tag\resort\index.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/product-tag/resort/?add-to-cart=2867
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\product-tag\resort\index-1.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/product-tag/resort/feed/
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\product-tag\resort\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://demo.bosathemes.com/hotelor/product-tag/shorts/
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\product-tag\shorts\index.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/product-tag/shorts/?add-to-cart=2866
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\product-tag\shorts\index-1.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/product-tag/shorts/feed/
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\product-tag\shorts\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://demo.bosathemes.com/hotelor/product-tag/ticket/
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\product-tag\ticket\index.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/product-tag/ticket/?add-to-cart=2858
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\product-tag\ticket\index-1.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/product-tag/ticket/?add-to-cart=2869
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\product-tag\ticket\index-2.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/product-tag/ticket/feed/
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\product-tag\ticket\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://demo.bosathemes.com/hotelor/product-tag/toy/
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\product-tag\toy\index.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/product-tag/toy/?add-to-cart=2867
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\product-tag\toy\index-1.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/product-tag/toy/feed/
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\product-tag\toy\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://demo.bosathemes.com/hotelor/product/beach-bag/
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\product\beach-bag\index.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/product/beach-bag/?add-to-cart=2866
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\product\beach-bag\index-2.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/product/beach-bag/?add-to-cart=2870
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\product\beach-bag\index-1.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/product/beach-toy/
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\product\beach-toy\index.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/product/beach-toy/?add-to-cart=2858
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\product\beach-toy\index-2.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/product/beach-toy/?add-to-cart=2869
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\product\beach-toy\index-1.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/product/beach-toy/?add-to-cart=2870
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\product\beach-toy\index-3.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/product/discount-coupon/
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\product\discount-coupon\index.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/product/discount-coupon/?add-to-cart=2867
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\product\discount-coupon\index-2.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/product/discount-coupon/?add-to-cart=2869
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\product\discount-coupon\index-1.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/product/golden-ticket/
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\product\golden-ticket\index.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/product/golden-ticket/?add-to-cart=2858
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\product\golden-ticket\index-2.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/product/golden-ticket/?add-to-cart=2867
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\product\golden-ticket\index-1.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/product/shorts-white/
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\product\shorts-white\index.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/product/shorts-white/?add-to-cart=2868
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\product\shorts-white\index-2.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/product/shorts-white/?add-to-cart=2870
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\product\shorts-white\index-1.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/product/water-shoes/
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\product\water-shoes\index.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/product/water-shoes/?add-to-cart=2866
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\product\water-shoes\index-3.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/product/water-shoes/?add-to-cart=2867
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\product\water-shoes\index-2.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/product/water-shoes/?add-to-cart=2868
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\product\water-shoes\index-1.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/shop/
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\shop\index.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/shop/?add-to-cart=2858
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\shop\index-3.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/shop/?add-to-cart=2867
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\shop\index-2.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/shop/?add-to-cart=2868
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\shop\index-1.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/shop/?add-to-cart=2869
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\shop\index-4.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/shop/feed/
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\shop\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://demo.bosathemes.com/hotelor/shop/page/2/
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\shop\page\2\index.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/shop/page/2/?add-to-cart=2866
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\shop\page\2\index-1.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/shop/page/2/?add-to-cart=2870
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\shop\page\2\index-2.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/stay-once-carry-memories-forever/
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\stay-once-carry-memories-forever\index.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/tag/holiday/
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\tag\holiday\index.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/tag/holiday/feed/
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\tag\holiday\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://demo.bosathemes.com/hotelor/tag/hotel/
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\tag\hotel\index.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/tag/hotel/feed/
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\tag\hotel\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://demo.bosathemes.com/hotelor/tag/resort/
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\tag\resort\index.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/tag/resort/feed/
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\tag\resort\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://demo.bosathemes.com/hotelor/tag/travel/
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\tag\travel\index.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/tag/travel/feed/
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\tag\travel\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://demo.bosathemes.com/hotelor/template-kit/about-us/
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\template-kit\about-us\index.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/template-kit/career-details/
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\template-kit\career-details\index.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/template-kit/career-list/
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\template-kit\career-list\index.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/template-kit/coming-soon/
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\template-kit\coming-soon\index.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/template-kit/contact-us/
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\template-kit\contact-us\index.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/template-kit/faq/
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\template-kit\faq\index.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/template-kit/home/
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\template-kit\home\index.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/template-kit/our-staff/
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\template-kit\our-staff\index.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/template-kit/package-offer/
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\template-kit\package-offer\index.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/template-kit/room-detail/
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\template-kit\room-detail\index.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/template-kit/rooms/
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\template-kit\rooms\index.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/template-kit/service-detail/
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\template-kit\service-detail\index.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/template-kit/services/
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\template-kit\services\index.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/template-kit/testimonial/
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\template-kit\testimonial\index.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/the-perfect-place-for-the-getaways/
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\the-perfect-place-for-the-getaways\index.htm
+Content Type: text/html
+
+Uri: https://demo.bosathemes.com/hotelor/wp-admin/js/password-strength-meter.min.js?ver=6.7.1
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-admin\js\password-strength-meter.min.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/bosa-buy-now/assets/css/style.css?ver=all
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\bosa-buy-now\assets\css\style.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/elementor-pro/assets/css/conditionals/transitions.min.css?ver=3.26.2
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\elementor-pro\assets\css\conditionals\transitions.min.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/elementor-pro/assets/css/widget-author-box.min.css?ver=3.26.2
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\elementor-pro\assets\css\widget-author-box.min.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/elementor-pro/assets/css/widget-countdown.min.css?ver=3.26.2
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\elementor-pro\assets\css\widget-countdown.min.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/elementor-pro/assets/css/widget-form.min.css?ver=3.26.2
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\elementor-pro\assets\css\widget-form.min.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/elementor-pro/assets/css/widget-gallery.min.css?ver=3.26.2
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\elementor-pro\assets\css\widget-gallery.min.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css?ver=3.26.2
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\elementor-pro\assets\css\widget-nav-menu.min.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/elementor-pro/assets/css/widget-post-info.min.css?ver=3.26.2
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\elementor-pro\assets\css\widget-post-info.min.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/elementor-pro/assets/css/widget-post-navigation.min.css?ver=3.26.2
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\elementor-pro\assets\css\widget-post-navigation.min.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/elementor-pro/assets/css/widget-posts.min.css?ver=3.26.2
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\elementor-pro\assets\css\widget-posts.min.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/elementor-pro/assets/css/widget-search-form.min.css?ver=3.26.2
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\elementor-pro\assets\css\widget-search-form.min.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/elementor-pro/assets/css/widget-share-buttons.min.css?ver=3.26.2
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\elementor-pro\assets\css\widget-share-buttons.min.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/elementor-pro/assets/css/widget-woocommerce-cart.min.css?ver=3.26.2
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\elementor-pro\assets\css\widget-woocommerce-cart.min.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/elementor-pro/assets/css/widget-woocommerce-categories.min.css?ver=3.26.2
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\elementor-pro\assets\css\widget-woocommerce-categories.min.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/elementor-pro/assets/css/widget-woocommerce-my-account.min.css?ver=3.26.2
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\elementor-pro\assets\css\widget-woocommerce-my-account.min.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/elementor-pro/assets/css/widget-woocommerce-product-add-to-cart.min.css?ver=3.26.2
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\elementor-pro\assets\css\widget-woocommerce-product-add-to-cart.min.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/elementor-pro/assets/css/widget-woocommerce-product-data-tabs.min.css?ver=3.26.2
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\elementor-pro\assets\css\widget-woocommerce-product-data-tabs.min.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/elementor-pro/assets/css/widget-woocommerce-product-images.min.css?ver=3.26.2
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\elementor-pro\assets\css\widget-woocommerce-product-images.min.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/elementor-pro/assets/css/widget-woocommerce-product-meta.min.css?ver=3.26.2
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\elementor-pro\assets\css\widget-woocommerce-product-meta.min.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/elementor-pro/assets/css/widget-woocommerce-product-price.min.css?ver=3.26.2
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\elementor-pro\assets\css\widget-woocommerce-product-price.min.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/elementor-pro/assets/css/widget-woocommerce-products-archive.min.css?ver=3.26.2
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\elementor-pro\assets\css\widget-woocommerce-products-archive.min.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/elementor-pro/assets/css/widget-woocommerce-products.min.css?ver=3.26.2
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\elementor-pro\assets\css\widget-woocommerce-products.min.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.26.2
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\elementor-pro\assets\js\elements-handlers.min.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.26.2
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\elementor-pro\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.26.2
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\elementor-pro\assets\js\webpack-pro.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.2.1
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\elementor-pro\assets\lib\smartmenus\jquery.smartmenus.min.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.26.3
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\elementor\assets\css\conditionals\apple-webkit.min.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/elementor/assets/css/conditionals/e-swiper.min.css?ver=3.26.3
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\elementor\assets\css\conditionals\e-swiper.min.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/elementor/assets/css/conditionals/shapes.min.css?ver=3.26.3
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\elementor\assets\css\conditionals\shapes.min.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.26.3
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\elementor\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/elementor/assets/css/widget-counter.min.css?ver=3.26.3
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\elementor\assets\css\widget-counter.min.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/elementor/assets/css/widget-divider.min.css?ver=3.26.3
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\elementor\assets\css\widget-divider.min.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/elementor/assets/css/widget-google_maps.min.css?ver=3.26.3
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\elementor\assets\css\widget-google_maps.min.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=3.26.3
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\elementor\assets\css\widget-heading.min.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css?ver=3.26.3
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\elementor\assets\css\widget-icon-box.min.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=3.26.3
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\elementor\assets\css\widget-icon-list.min.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/elementor/assets/css/widget-image-box.min.css?ver=3.26.3
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\elementor\assets\css\widget-image-box.min.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/elementor/assets/css/widget-image-carousel.min.css?ver=3.26.3
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\elementor\assets\css\widget-image-carousel.min.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=3.26.3
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\elementor\assets\css\widget-image.min.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/elementor/assets/css/widget-rating.min.css?ver=3.26.3
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\elementor\assets\css\widget-rating.min.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=3.26.3
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\elementor\assets\css\widget-social-icons.min.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/elementor/assets/css/widget-spacer.min.css?ver=3.26.3
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\elementor\assets\css\widget-spacer.min.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/elementor/assets/css/widget-tabs.min.css?ver=3.26.3
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\elementor\assets\css\widget-tabs.min.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/elementor/assets/css/widget-text-editor.min.css?ver=3.26.3
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\elementor\assets\css\widget-text-editor.min.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/elementor/assets/css/widget-video.min.css?ver=3.26.3
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\elementor\assets\css\widget-video.min.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.26.3
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.26.3
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.26.3
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/elementor/assets/lib/e-gallery/css/e-gallery.min.css?ver=1.2.0
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\elementor\assets\lib\e-gallery\css\e-gallery.min.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/elementor/assets/lib/e-gallery/js/e-gallery.min.js?ver=1.2.0
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\elementor\assets\lib\e-gallery\js\e-gallery.min.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.min.js?ver=0.2.1
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\elementor\assets\lib\jquery-numerator\jquery-numerator.min.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\elementor\assets\lib\swiper\v8\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/elementskit-lite/libs/framework/assets/js/frontend-script.js?ver=3.3.5
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\elementskit-lite\libs\framework\assets\js\frontend-script.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/css/ekiticons.css?ver=3.3.5
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\elementskit-lite\modules\elementskit-icon-pack\assets\css\ekiticons.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/fonts/elementskit.woff?y24e1e
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\elementskit-lite\modules\elementskit-icon-pack\assets\fonts\elementskit.woff
+Content Type: font/woff
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/elementskit-lite/widgets/init/assets/css/responsive.css?ver=3.3.5
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\elementskit-lite\widgets\init\assets\css\responsive.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/elementskit-lite/widgets/init/assets/css/widget-styles.css?ver=3.3.5
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\elementskit-lite\widgets\init\assets\css\widget-styles.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/elementskit-lite/widgets/init/assets/img/arrow.png
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\elementskit-lite\widgets\init\assets\img\arrow.png
+Content Type: image/png
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/elementskit-lite/widgets/init/assets/img/cross-out.svg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\elementskit-lite\widgets\init\assets\img\cross-out.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/elementskit-lite/widgets/init/assets/img/sort_asc.png
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\elementskit-lite\widgets\init\assets\img\sort_asc.png
+Content Type: image/png
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/elementskit-lite/widgets/init/assets/img/sort_asc_disabled.png
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\elementskit-lite\widgets\init\assets\img\sort_asc_disabled.png
+Content Type: image/png
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/elementskit-lite/widgets/init/assets/img/sort_desc.png
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\elementskit-lite\widgets\init\assets\img\sort_desc.png
+Content Type: image/png
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/elementskit-lite/widgets/init/assets/js/animate-circle.min.js?ver=3.3.5
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\elementskit-lite\widgets\init\assets\js\animate-circle.min.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/elementskit-lite/widgets/init/assets/js/elementor.js?ver=3.3.5
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\elementskit-lite\widgets\init\assets\js\elementor.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/elementskit-lite/widgets/init/assets/js/widget-scripts.js?ver=3.3.5
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\elementskit-lite\widgets\init\assets\js\widget-scripts.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/premium-addons-for-elementor/admin/assets/css/admin-bar.css?ver=4.10.73
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\premium-addons-for-elementor\admin\assets\css\admin-bar.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/premium-addons-for-elementor/admin/assets/js/admin-bar.js?ver=4.10.73
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\premium-addons-for-elementor\admin\assets\js\admin-bar.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/premium-addons-for-elementor/assets/editor/fonts/pa-elements.eot?1jmcw0
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\premium-addons-for-elementor\assets\editor\fonts\pa-elements.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/premium-addons-for-elementor/assets/editor/fonts/pa-elements.svg?1jmcw0
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\premium-addons-for-elementor\assets\editor\fonts\pa-elements.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/premium-addons-for-elementor/assets/editor/fonts/pa-elements.ttf?1jmcw0
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\premium-addons-for-elementor\assets\editor\fonts\pa-elements.ttf
+Content Type: font/ttf
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/premium-addons-for-elementor/assets/editor/fonts/pa-elements.woff?1jmcw0
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\premium-addons-for-elementor\assets\editor\fonts\pa-elements.woff
+Content Type: font/woff
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/premium-addons-for-elementor/assets/frontend/images/prettyPhoto/dark_rounded/btnNext.png
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\premium-addons-for-elementor\assets\frontend\images\prettyPhoto\dark_rounded\btnNext.png
+Content Type: image/png
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/premium-addons-for-elementor/assets/frontend/images/prettyPhoto/dark_rounded/btnPrevious.png
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\premium-addons-for-elementor\assets\frontend\images\prettyPhoto\dark_rounded\btnPrevious.png
+Content Type: image/png
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/premium-addons-for-elementor/assets/frontend/images/prettyPhoto/dark_rounded/contentPattern.png
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\premium-addons-for-elementor\assets\frontend\images\prettyPhoto\dark_rounded\contentPattern.png
+Content Type: image/png
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/premium-addons-for-elementor/assets/frontend/images/prettyPhoto/dark_rounded/loader.gif
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\premium-addons-for-elementor\assets\frontend\images\prettyPhoto\dark_rounded\loader.gif
+Content Type: image/gif
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/premium-addons-for-elementor/assets/frontend/images/prettyPhoto/dark_rounded/sprite.png
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\premium-addons-for-elementor\assets\frontend\images\prettyPhoto\dark_rounded\sprite.png
+Content Type: image/png
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/premium-addons-for-elementor/assets/frontend/images/prettyPhoto/dark_square/btnNext.png
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\premium-addons-for-elementor\assets\frontend\images\prettyPhoto\dark_square\btnNext.png
+Content Type: image/png
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/premium-addons-for-elementor/assets/frontend/images/prettyPhoto/dark_square/btnPrevious.png
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\premium-addons-for-elementor\assets\frontend\images\prettyPhoto\dark_square\btnPrevious.png
+Content Type: image/png
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/premium-addons-for-elementor/assets/frontend/images/prettyPhoto/dark_square/loader.gif
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\premium-addons-for-elementor\assets\frontend\images\prettyPhoto\dark_square\loader.gif
+Content Type: image/gif
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/premium-addons-for-elementor/assets/frontend/images/prettyPhoto/dark_square/sprite.png
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\premium-addons-for-elementor\assets\frontend\images\prettyPhoto\dark_square\sprite.png
+Content Type: image/png
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/premium-addons-for-elementor/assets/frontend/images/prettyPhoto/default/default_thumb.png
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\premium-addons-for-elementor\assets\frontend\images\prettyPhoto\default\default_thumb.png
+Content Type: image/png
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/premium-addons-for-elementor/assets/frontend/images/prettyPhoto/default/loader.gif
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\premium-addons-for-elementor\assets\frontend\images\prettyPhoto\default\loader.gif
+Content Type: image/gif
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/premium-addons-for-elementor/assets/frontend/images/prettyPhoto/default/sprite.png
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\premium-addons-for-elementor\assets\frontend\images\prettyPhoto\default\sprite.png
+Content Type: image/png
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/premium-addons-for-elementor/assets/frontend/images/prettyPhoto/default/sprite_next.png
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\premium-addons-for-elementor\assets\frontend\images\prettyPhoto\default\sprite_next.png
+Content Type: image/png
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/premium-addons-for-elementor/assets/frontend/images/prettyPhoto/default/sprite_prev.png
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\premium-addons-for-elementor\assets\frontend\images\prettyPhoto\default\sprite_prev.png
+Content Type: image/png
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/premium-addons-for-elementor/assets/frontend/images/prettyPhoto/default/sprite_x.png
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\premium-addons-for-elementor\assets\frontend\images\prettyPhoto\default\sprite_x.png
+Content Type: image/png
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/premium-addons-for-elementor/assets/frontend/images/prettyPhoto/default/sprite_y.png
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\premium-addons-for-elementor\assets\frontend\images\prettyPhoto\default\sprite_y.png
+Content Type: image/png
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/premium-addons-for-elementor/assets/frontend/images/prettyPhoto/facebook/btnNext.png
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\premium-addons-for-elementor\assets\frontend\images\prettyPhoto\facebook\btnNext.png
+Content Type: image/png
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/premium-addons-for-elementor/assets/frontend/images/prettyPhoto/facebook/btnPrevious.png
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\premium-addons-for-elementor\assets\frontend\images\prettyPhoto\facebook\btnPrevious.png
+Content Type: image/png
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/premium-addons-for-elementor/assets/frontend/images/prettyPhoto/facebook/contentPatternBottom.png
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\premium-addons-for-elementor\assets\frontend\images\prettyPhoto\facebook\contentPatternBottom.png
+Content Type: image/png
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/premium-addons-for-elementor/assets/frontend/images/prettyPhoto/facebook/contentPatternLeft.png
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\premium-addons-for-elementor\assets\frontend\images\prettyPhoto\facebook\contentPatternLeft.png
+Content Type: image/png
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/premium-addons-for-elementor/assets/frontend/images/prettyPhoto/facebook/contentPatternRight.png
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\premium-addons-for-elementor\assets\frontend\images\prettyPhoto\facebook\contentPatternRight.png
+Content Type: image/png
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/premium-addons-for-elementor/assets/frontend/images/prettyPhoto/facebook/contentPatternTop.png
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\premium-addons-for-elementor\assets\frontend\images\prettyPhoto\facebook\contentPatternTop.png
+Content Type: image/png
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/premium-addons-for-elementor/assets/frontend/images/prettyPhoto/facebook/default_thumbnail.gif
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\premium-addons-for-elementor\assets\frontend\images\prettyPhoto\facebook\default_thumbnail.gif
+Content Type: image/gif
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/premium-addons-for-elementor/assets/frontend/images/prettyPhoto/facebook/loader.gif
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\premium-addons-for-elementor\assets\frontend\images\prettyPhoto\facebook\loader.gif
+Content Type: image/gif
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/premium-addons-for-elementor/assets/frontend/images/prettyPhoto/facebook/sprite.png
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\premium-addons-for-elementor\assets\frontend\images\prettyPhoto\facebook\sprite.png
+Content Type: image/png
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/premium-addons-for-elementor/assets/frontend/images/prettyPhoto/light_rounded/btnNext.png
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\premium-addons-for-elementor\assets\frontend\images\prettyPhoto\light_rounded\btnNext.png
+Content Type: image/png
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/premium-addons-for-elementor/assets/frontend/images/prettyPhoto/light_rounded/btnPrevious.png
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\premium-addons-for-elementor\assets\frontend\images\prettyPhoto\light_rounded\btnPrevious.png
+Content Type: image/png
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/premium-addons-for-elementor/assets/frontend/images/prettyPhoto/light_rounded/loader.gif
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\premium-addons-for-elementor\assets\frontend\images\prettyPhoto\light_rounded\loader.gif
+Content Type: image/gif
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/premium-addons-for-elementor/assets/frontend/images/prettyPhoto/light_rounded/sprite.png
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\premium-addons-for-elementor\assets\frontend\images\prettyPhoto\light_rounded\sprite.png
+Content Type: image/png
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/premium-addons-for-elementor/assets/frontend/images/prettyPhoto/light_square/btnNext.png
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\premium-addons-for-elementor\assets\frontend\images\prettyPhoto\light_square\btnNext.png
+Content Type: image/png
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/premium-addons-for-elementor/assets/frontend/images/prettyPhoto/light_square/btnPrevious.png
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\premium-addons-for-elementor\assets\frontend\images\prettyPhoto\light_square\btnPrevious.png
+Content Type: image/png
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/premium-addons-for-elementor/assets/frontend/images/prettyPhoto/light_square/sprite.png
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\premium-addons-for-elementor\assets\frontend\images\prettyPhoto\light_square\sprite.png
+Content Type: image/png
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-css/premium-addons.min.css?ver=4.10.73
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\premium-addons-for-elementor\assets\frontend\min-css\premium-addons.min.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-css/prettyphoto.min.css?ver=4.10.73
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\premium-addons-for-elementor\assets\frontend\min-css\prettyphoto.min.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-js/isotope.min.js?ver=4.10.73
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\premium-addons-for-elementor\assets\frontend\min-js\isotope.min.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-js/prettyPhoto.min.js?ver=4.10.73
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\premium-addons-for-elementor\assets\frontend\min-js\prettyPhoto.min.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/template-kit-export/assets/public/template-kit-export-public.css?ver=1.0.23
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\template-kit-export\assets\public\template-kit-export-public.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/template-kit-export/assets/public/template-kit-export-public.js?ver=1.0.23
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\template-kit-export\assets\public\template-kit-export-public.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/woocommerce/assets/client/blocks/blocks-checkout.js?ver=b00178cb31b1aeee8038
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\woocommerce\assets\client\blocks\blocks-checkout.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/woocommerce/assets/client/blocks/blocks-components.js?ver=5f11d5c440e62fef7bb5
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\woocommerce\assets\client\blocks\blocks-components.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/woocommerce/assets/client/blocks/cart-frontend.js?ver=69a6b7aac59b18d3b574
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\woocommerce\assets\client\blocks\cart-frontend.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/woocommerce/assets/client/blocks/checkout-frontend.js?ver=093b972368479cf2764e
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\woocommerce\assets\client\blocks\checkout-frontend.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/woocommerce/assets/client/blocks/price-format.js?ver=483d2180eda1f53dc60d
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\woocommerce\assets\client\blocks\price-format.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks-data.js?ver=bf6b6808e29dd19e91b9
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\woocommerce\assets\client\blocks\wc-blocks-data.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks-middleware.js?ver=e3f189e7e5007fb14fff
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\woocommerce\assets\client\blocks\wc-blocks-middleware.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks-registry.js?ver=8db91d7a57c47e3eb6f6
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\woocommerce\assets\client\blocks\wc-blocks-registry.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks-shared-context.js?ver=6eb6865831aa5a75475d
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\woocommerce\assets\client\blocks\wc-blocks-shared-context.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks-shared-hocs.js?ver=cba59eca47d9101980bf
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\woocommerce\assets\client\blocks\wc-blocks-shared-hocs.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-9.5.1
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\woocommerce\assets\client\blocks\wc-blocks.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/woocommerce/assets/client/blocks/wc-cart-checkout-base-frontend.js?ver=c785ec96148aa09a247a
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\woocommerce\assets\client\blocks\wc-cart-checkout-base-frontend.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/woocommerce/assets/client/blocks/wc-cart-checkout-vendors-frontend.js?ver=7c1cbc00f89f395a28b2
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\woocommerce\assets\client\blocks\wc-cart-checkout-vendors-frontend.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/woocommerce/assets/client/blocks/wc-settings.js?ver=eb5ac71a827c4c81fed8
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\woocommerce\assets\client\blocks\wc-settings.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/woocommerce/assets/client/blocks/wc-types.js?ver=bda84b1be3361607d04a
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\woocommerce\assets\client\blocks\wc-types.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.min.css?ver=9.5.1
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\default-skin.min.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.png
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\default-skin.png
+Content Type: image/png
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.svg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\default-skin.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/preloader.gif
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\preloader.gif
+Content Type: image/gif
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/woocommerce/assets/css/photoswipe/photoswipe.min.css?ver=9.5.1
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\woocommerce\assets\css\photoswipe\photoswipe.min.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/woocommerce/assets/css/select2.css?ver=9.5.1
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\woocommerce\assets\css\select2.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=9.5.1
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\woocommerce\assets\css\woocommerce-layout.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=9.5.1
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\woocommerce\assets\css\woocommerce-smallscreen.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=9.5.1
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\woocommerce\assets\css\woocommerce.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/woocommerce/assets/fonts/cardo_normal_400.woff2
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\woocommerce\assets\fonts\cardo_normal_400.woff2
+Content Type: font/woff2
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/woocommerce/assets/fonts/Inter-VariableFont_slnt,wght.woff2
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\woocommerce\assets\fonts\Inter-VariableFont_slnt,wght.woff2
+Content Type: font/woff2
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.ttf
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\woocommerce\assets\fonts\WooCommerce.ttf
+Content Type: font/ttf
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\woocommerce\assets\fonts\WooCommerce.woff
+Content Type: font/woff
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff2
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\woocommerce\assets\fonts\WooCommerce.woff2
+Content Type: font/woff2
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/amex.svg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\amex.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/diners.svg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\diners.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/discover.svg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\discover.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/jcb.svg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\jcb.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/laser.svg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\laser.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/maestro.svg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\maestro.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/mastercard.svg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\mastercard.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/visa.svg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\visa.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/woocommerce/assets/images/icons/loader.svg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\woocommerce\assets\images\icons\loader.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/woocommerce/assets/js/flexslider/jquery.flexslider.min.js?ver=2.7.2-wc.9.5.1
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\woocommerce\assets\js\flexslider\jquery.flexslider.min.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/woocommerce/assets/js/frontend/account-i18n.min.js?ver=9.5.1
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\woocommerce\assets\js\frontend\account-i18n.min.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=9.5.1
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart.min.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/woocommerce/assets/js/frontend/address-i18n.min.js?ver=9.5.1
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\woocommerce\assets\js\frontend\address-i18n.min.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/woocommerce/assets/js/frontend/cart.min.js?ver=9.5.1
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\woocommerce\assets\js\frontend\cart.min.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/woocommerce/assets/js/frontend/country-select.min.js?ver=9.5.1
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\woocommerce\assets\js\frontend\country-select.min.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/woocommerce/assets/js/frontend/lost-password.min.js?ver=9.5.1
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\woocommerce\assets\js\frontend\lost-password.min.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.min.js?ver=9.5.1
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\woocommerce\assets\js\frontend\order-attribution.min.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/woocommerce/assets/js/frontend/password-strength-meter.min.js?ver=9.5.1
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\woocommerce\assets\js\frontend\password-strength-meter.min.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/woocommerce/assets/js/frontend/single-product.min.js?ver=9.5.1
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\woocommerce\assets\js\frontend\single-product.min.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=9.5.1
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\woocommerce\assets\js\frontend\woocommerce.min.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.9.5.1
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\woocommerce\assets\js\jquery-blockui\jquery.blockUI.min.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.9.5.1
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\woocommerce\assets\js\js-cookie\js.cookie.min.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe-ui-default.min.js?ver=4.1.1-wc.9.5.1
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\woocommerce\assets\js\photoswipe\photoswipe-ui-default.min.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe.min.js?ver=4.1.1-wc.9.5.1
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\woocommerce\assets\js\photoswipe\photoswipe.min.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/woocommerce/assets/js/selectWoo/selectWoo.full.min.js?ver=1.0.9-wc.9.5.1
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\woocommerce\assets\js\selectWoo\selectWoo.full.min.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min.js?ver=9.5.1
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\woocommerce\assets\js\sourcebuster\sourcebuster.min.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/plugins/woocommerce/assets/js/zoom/jquery.zoom.min.js?ver=1.7.21-wc.9.5.1
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\plugins\woocommerce\assets\js\zoom\jquery.zoom.min.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/themes/hello-elementor/assets/js/hello-frontend.min.js?ver=3.1.1
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\themes\hello-elementor\assets\js\hello-frontend.min.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/themes/hello-elementor/header-footer.min.css?ver=3.1.1
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\themes\hello-elementor\header-footer.min.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/themes/hello-elementor/style.min.css?ver=3.1.1
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\themes\hello-elementor\style.min.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/themes/hello-elementor/theme.min.css?ver=3.1.1
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\themes\hello-elementor\theme.min.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/about-bg.png
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\about-bg.png
+Content Type: image/png
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/banner-2.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\banner-2.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/banner-img-1.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\banner-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/banner-img-5.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\banner-img-5.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/bg-image.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\bg-image.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/bg-shape-1.png
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\bg-shape-1.png
+Content Type: image/png
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/bg-shape.png
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\bg-shape.png
+Content Type: image/png
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/blog-2-1024x683.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\blog-2-1024x683.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/blog-2-300x200.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\blog-2-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/blog-2-600x400.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\blog-2-600x400.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/blog-2-768x512.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\blog-2-768x512.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/blog-2-800x533.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\blog-2-800x533.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/blog-2.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\blog-2.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/blog-4-1024x683.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\blog-4-1024x683.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/blog-4-300x200.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\blog-4-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/blog-4-600x400.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\blog-4-600x400.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/blog-4-768x512.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\blog-4-768x512.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/blog-4-800x533.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\blog-4-800x533.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/blog-4.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\blog-4.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/blog-5-1024x681.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\blog-5-1024x681.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/blog-5-300x200.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\blog-5-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/blog-5-600x399.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\blog-5-600x399.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/blog-5-768x511.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\blog-5-768x511.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/blog-5-800x532.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\blog-5-800x532.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/blog-5.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\blog-5.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/blog-6-1024x683.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\blog-6-1024x683.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/blog-6-300x200.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\blog-6-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/blog-6-600x400.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\blog-6-600x400.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/blog-6-768x512.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\blog-6-768x512.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/blog-6-800x533.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\blog-6-800x533.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/blog-6.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\blog-6.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/client-3-100x100.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\client-3-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/client-3.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\client-3.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/dott-map.png
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\dott-map.png
+Content Type: image/png
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/faq-image-1-273x300.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\faq-image-1-273x300.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/faq-image-1.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\faq-image-1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/fev-icon-2-100x100.png
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\fev-icon-2-100x100.png
+Content Type: image/png
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/fev-icon-2-300x300.png
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\fev-icon-2-300x300.png
+Content Type: image/png
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/footer-bg.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\footer-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/icon-10.png
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\icon-10.png
+Content Type: image/png
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/icon-11.png
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\icon-11.png
+Content Type: image/png
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/icon-2.png
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\icon-2.png
+Content Type: image/png
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/icon-4.png
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\icon-4.png
+Content Type: image/png
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/icon-5.png
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\icon-5.png
+Content Type: image/png
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/icon-6.png
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\icon-6.png
+Content Type: image/png
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/icon-7.png
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\icon-7.png
+Content Type: image/png
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/icon-8.png
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\icon-8.png
+Content Type: image/png
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/icon-9.png
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\icon-9.png
+Content Type: image/png
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/image-10.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\image-10.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/image-12.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\image-12.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/image-15-250x300.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\image-15-250x300.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/image-15.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\image-15.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/image-16-200x300.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\image-16-200x300.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/image-16.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\image-16.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/image-26.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\image-26.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/image-28.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\image-28.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/image-29.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\image-29.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/image-30-100x100.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\image-30-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/image-30-150x150.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\image-30-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/image-30-300x300.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\image-30-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/image-30-600x600.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\image-30-600x600.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/image-30-768x768.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\image-30-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/image-30.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\image-30.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/image-34-1024x683.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\image-34-1024x683.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/image-34-300x200.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\image-34-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/image-34-600x400.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\image-34-600x400.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/image-34-768x512.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\image-34-768x512.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/image-34-800x533.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\image-34-800x533.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/image-34.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\image-34.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/image-35.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\image-35.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/image-36.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\image-36.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/image-38.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\image-38.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/image-39.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\image-39.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/image-40.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\image-40.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/image-41.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\image-41.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/image-42.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\image-42.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/image-43.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\image-43.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/image-44.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\image-44.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/image-45.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\image-45.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/image-5-221x300.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\image-5-221x300.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/image-5.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\image-5.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/image-7-100x100.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\image-7-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/image-7-150x150.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\image-7-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/image-7-300x300.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\image-7-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/image-7.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\image-7.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/image-8.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\image-8.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/image-9.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\image-9.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/line-bg-1.png
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\line-bg-1.png
+Content Type: image/png
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/main-logo-7.png
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\main-logo-7.png
+Content Type: image/png
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/product-1-100x100.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\product-1-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/product-1-150x150.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\product-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/product-1-300x300.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\product-1-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/product-1.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\product-1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/product-2-100x100.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\product-2-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/product-2-150x150.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\product-2-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/product-2-300x300.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\product-2-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/product-2.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\product-2.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/product-3-100x100.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\product-3-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/product-3-150x150.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\product-3-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/product-3-300x300.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\product-3-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/product-3.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\product-3.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/product-4-100x100.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\product-4-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/product-4-150x150.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\product-4-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/product-4-300x300.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\product-4-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/product-4.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\product-4.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/product-5-100x100.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\product-5-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/product-5-150x150.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\product-5-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/product-5-300x300.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\product-5-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/product-5.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\product-5.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/product-6-100x100.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\product-6-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/product-6-150x150.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\product-6-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/product-6-300x300.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\product-6-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/product-6.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\product-6.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/review-1-1.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\review-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/review-1-100x100.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\review-1-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/review-1.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\review-1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/review-2.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\review-2.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/review-3.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\review-3.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/review-4.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\review-4.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/room-detail-3.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\room-detail-3.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/room-detail-4.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\room-detail-4.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/room-detail-5.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\room-detail-5.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/room-detail-6.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\room-detail-6.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/room-detail-img-300x203.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\room-detail-img-300x203.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/room-detail-img-600x406.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\room-detail-img-600x406.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/room-detail-img-768x520.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\room-detail-img-768x520.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/room-detail-img-800x542.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\room-detail-img-800x542.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/room-detail-img.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\room-detail-img.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/services-detail-image-300x200.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\services-detail-image-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/services-detail-image-600x400.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\services-detail-image-600x400.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/services-detail-image-768x512.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\services-detail-image-768x512.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/services-detail-image-800x534.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\services-detail-image-800x534.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/services-detail-image.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\services-detail-image.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/team-1.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\team-1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/team-2.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\team-2.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/team-3.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\team-3.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/team-5.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\team-5.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/team-6.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\team-6.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/08/team-8.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\08\team-8.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/09/h-404-page-191x300.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\09\h-404-page-191x300.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/09/h-404-page.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\09\h-404-page.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/09/h-about-us-191x300.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\09\h-about-us-191x300.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/09/h-about-us.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\09\h-about-us.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/09/h-Archive-191x300.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\09\h-Archive-191x300.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/09/h-Archive.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\09\h-Archive.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/09/h-career-detail-191x300.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\09\h-career-detail-191x300.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/09/h-career-detail.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\09\h-career-detail.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/09/h-career-list-191x300.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\09\h-career-list-191x300.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/09/h-career-list.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\09\h-career-list.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/09/h-cart-191x300.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\09\h-cart-191x300.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/09/h-cart.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\09\h-cart.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/09/h-checkout-191x300.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\09\h-checkout-191x300.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/09/h-checkout.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\09\h-checkout.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/09/h-coming-soon-191x300.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\09\h-coming-soon-191x300.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/09/h-coming-soon.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\09\h-coming-soon.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/09/h-contact-us-191x300.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\09\h-contact-us-191x300.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/09/h-contact-us.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\09\h-contact-us.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/09/h-Faq-191x300.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\09\h-Faq-191x300.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/09/h-Faq.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\09\h-Faq.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/09/h-home-191x300.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\09\h-home-191x300.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/09/h-home.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\09\h-home.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/09/h-my-account-191x300.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\09\h-my-account-191x300.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/09/h-my-account.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\09\h-my-account.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/09/h-package-offer-191x300.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\09\h-package-offer-191x300.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/09/h-package-offer.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\09\h-package-offer.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/09/h-product-detail-191x300.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\09\h-product-detail-191x300.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/09/h-product-detail.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\09\h-product-detail.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/09/h-room-191x300.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\09\h-room-191x300.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/09/h-room-details-191x300.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\09\h-room-details-191x300.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/09/h-room-details.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\09\h-room-details.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/09/h-room.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\09\h-room.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/09/h-search-result-191x300.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\09\h-search-result-191x300.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/09/h-search-result.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\09\h-search-result.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/09/h-services-191x300.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\09\h-services-191x300.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/09/h-services-detail-191x300.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\09\h-services-detail-191x300.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/09/h-services-detail.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\09\h-services-detail.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/09/h-services.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\09\h-services.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/09/h-shop-191x300.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\09\h-shop-191x300.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/09/h-shop.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\09\h-shop.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/09/h-single-post-191x300.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\09\h-single-post-191x300.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/09/h-single-post.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\09\h-single-post.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/09/h-staff-191x300.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\09\h-staff-191x300.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/09/h-staff.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\09\h-staff.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/09/h-testimonial-191x300.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\09\h-testimonial-191x300.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/2024/09/h-testimonial.jpg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\2024\09\h-testimonial.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/elementor/css/post-101.css?ver=1735544199
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\elementor\css\post-101.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/elementor/css/post-103.css?ver=1735543666
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\elementor\css\post-103.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/elementor/css/post-107.css?ver=1735543689
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\elementor\css\post-107.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/elementor/css/post-12.css?ver=1735540799
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\elementor\css\post-12.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/elementor/css/post-16.css?ver=1735540805
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\elementor\css\post-16.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/elementor/css/post-2111.css?ver=1735542109
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\elementor\css\post-2111.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/elementor/css/post-2297.css?ver=1735543682
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\elementor\css\post-2297.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/elementor/css/post-2384.css?ver=1735543807
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\elementor\css\post-2384.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/elementor/css/post-2444.css?ver=1735543661
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\elementor\css\post-2444.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/elementor/css/post-2493.css?ver=1735543759
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\elementor\css\post-2493.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/elementor/css/post-2530.css?ver=1735543777
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\elementor\css\post-2530.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/elementor/css/post-2618.css?ver=1735543794
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\elementor\css\post-2618.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/elementor/css/post-2686.css?ver=1735543681
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\elementor\css\post-2686.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/elementor/css/post-2694.css?ver=1735543705
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\elementor\css\post-2694.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/elementor/css/post-2723.css?ver=1735543686
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\elementor\css\post-2723.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/elementor/css/post-2764.css?ver=1735543796
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\elementor\css\post-2764.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/elementor/css/post-2797.css?ver=1735543658
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\elementor\css\post-2797.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/elementor/css/post-2906.css?ver=1735543673
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\elementor\css\post-2906.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/elementor/css/post-3217.css?ver=1735540800
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\elementor\css\post-3217.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/elementor/css/post-67.css?ver=1735543840
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\elementor\css\post-67.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/elementor/css/post-75.css?ver=1735542582
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\elementor\css\post-75.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/elementor/css/post-81.css?ver=1735540800
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\elementor\css\post-81.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/elementor/css/post-90.css?ver=1735543762
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\elementor\css\post-90.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/elementor/css/post-91.css?ver=1735540800
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\elementor\css\post-91.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/elementor/css/post-96.css?ver=1735544207
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\elementor\css\post-96.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/elementor/css/post-98.css?ver=1735543752
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\elementor\css\post-98.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/premium-addons-elementor/pa-frontend-068cf93be.min.css?ver=1737617343
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\premium-addons-elementor\pa-frontend-068cf93be.min.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-content/uploads/sites/57/premium-addons-elementor/pa-frontend-068cf93be.min.js?ver=1737617343
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-content\uploads\sites\57\premium-addons-elementor\pa-frontend-068cf93be.min.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-includes/css/dist/block-library/style.min.css?ver=6.7.1
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-includes/js/dist/a11y.min.js?ver=3156534cc54473497e14
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-includes\js\dist\a11y.min.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-includes/js/dist/api-fetch.min.js?ver=d387b816bc1ed2042e28
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-includes\js\dist\api-fetch.min.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-includes/js/dist/autop.min.js?ver=9fb50649848277dd318d
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-includes\js\dist\autop.min.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-includes/js/dist/compose.min.js?ver=85f0708cd2e6b26addeb
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-includes\js\dist\compose.min.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-includes/js/dist/data-controls.min.js?ver=49f5587e8b90f9e7cc7e
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-includes\js\dist\data-controls.min.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-includes/js/dist/data.min.js?ver=7c62e39de0308c73d50c
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-includes\js\dist\data.min.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-includes/js/dist/deprecated.min.js?ver=e1f84915c5e8ae38964c
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-includes\js\dist\deprecated.min.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-includes/js/dist/dom-ready.min.js?ver=f77871ff7694fffea381
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-includes\js\dist\dom-ready.min.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-includes/js/dist/dom.min.js?ver=93117dfee2692b04b770
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-includes\js\dist\dom.min.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-includes/js/dist/element.min.js?ver=cb762d190aebbec25b27
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-includes\js\dist\element.min.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-includes/js/dist/escape-html.min.js?ver=6561a406d2d232a6fbd2
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-includes\js\dist\escape-html.min.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-includes\js\dist\hooks.min.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-includes/js/dist/html-entities.min.js?ver=2cd3358363e0675638fb
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-includes\js\dist\html-entities.min.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-includes\js\dist\i18n.min.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-includes/js/dist/is-shallow-equal.min.js?ver=e0f9f1d78d83f5196979
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-includes\js\dist\is-shallow-equal.min.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-includes/js/dist/keycodes.min.js?ver=034ff647a54b018581d3
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-includes\js\dist\keycodes.min.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-includes/js/dist/notices.min.js?ver=673a68a7ac2f556ed50b
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-includes\js\dist\notices.min.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-includes/js/dist/plugins.min.js?ver=ef6da4a9b2747b62c09c
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-includes\js\dist\plugins.min.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-includes/js/dist/primitives.min.js?ver=aef2543ab60c8c9bb609
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-includes\js\dist\primitives.min.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-includes/js/dist/priority-queue.min.js?ver=9c21c957c7e50ffdbf48
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-includes\js\dist\priority-queue.min.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-includes/js/dist/private-apis.min.js?ver=4b858962c15c2c7a135f
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-includes\js\dist\private-apis.min.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-includes/js/dist/redux-routine.min.js?ver=a0a172871afaeb261566
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-includes\js\dist\redux-routine.min.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-includes/js/dist/style-engine.min.js?ver=08cc10e9532531e22456
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-includes\js\dist\style-engine.min.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-includes/js/dist/url.min.js?ver=e87eb76272a3a08402d2
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-includes\js\dist\url.min.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-includes/js/dist/vendor/react-dom.min.js?ver=18.3.1
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-includes\js\dist\vendor\react-dom.min.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-includes/js/dist/vendor/react-jsx-runtime.min.js?ver=18.3.1
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-includes\js\dist\vendor\react-jsx-runtime.min.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-includes/js/dist/vendor/react.min.js?ver=18.3.1
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-includes\js\dist\vendor\react.min.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-includes/js/dist/warning.min.js?ver=ed7c8b0940914f4fe44b
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-includes\js\dist\warning.min.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-includes/js/dist/wordcount.min.js?ver=55d8c2bf3dc99e7ea5ec
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-includes\js\dist\wordcount.min.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-includes/js/imagesloaded.min.js?ver=5.0.0
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-includes\js\imagesloaded.min.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.17
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-includes\js\mediaelement\mediaelement-and-player.min.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=6.7.1
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-includes\js\mediaelement\mediaelement-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.17
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-includes\js\mediaelement\mediaelementplayer-legacy.min.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-includes/js/mediaelement/mejs-controls.svg
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-includes\js\mediaelement\mejs-controls.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.bosathemes.com/hotelor/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=6.7.1
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-includes\js\mediaelement\wp-mediaelement.min.css
+Content Type: text/css
+
+Uri: https://demo.bosathemes.com/hotelor/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=6.7.1
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-includes\js\mediaelement\wp-mediaelement.min.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-includes/js/zxcvbn-async.min.js?ver=1.0
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-includes\js\zxcvbn-async.min.js
+Content Type: application/javascript
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/oembed/1.0/embed?url=https:%2F%2Fdemo.bosathemes.com%2Fhotelor%2F
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/oembed/1.0/embed?url=https:%2F%2Fdemo.bosathemes.com%2Fhotelor%2F%3Felementor_library%3D404-page
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\oembed\1.0\embed-30
+Content Type: application/json
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/oembed/1.0/embed?url=https:%2F%2Fdemo.bosathemes.com%2Fhotelor%2F%3Felementor_library%3D404-page&format=xml
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\oembed\1.0\embed-31
+Content Type: text/xml
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/oembed/1.0/embed?url=https:%2F%2Fdemo.bosathemes.com%2Fhotelor%2F%3Felementor_library%3Darchive
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\oembed\1.0\embed-34
+Content Type: application/json
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/oembed/1.0/embed?url=https:%2F%2Fdemo.bosathemes.com%2Fhotelor%2F%3Felementor_library%3Darchive&format=xml
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\oembed\1.0\embed-35
+Content Type: text/xml
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/oembed/1.0/embed?url=https:%2F%2Fdemo.bosathemes.com%2Fhotelor%2F%3Felementor_library%3Dsearch-results
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\oembed\1.0\embed-26
+Content Type: application/json
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/oembed/1.0/embed?url=https:%2F%2Fdemo.bosathemes.com%2Fhotelor%2F%3Felementor_library%3Dsearch-results&format=xml
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\oembed\1.0\embed-27
+Content Type: text/xml
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/oembed/1.0/embed?url=https:%2F%2Fdemo.bosathemes.com%2Fhotelor%2F&format=xml
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/oembed/1.0/embed?url=https:%2F%2Fdemo.bosathemes.com%2Fhotelor%2Fcart%2F
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\oembed\1.0\embed-40
+Content Type: application/json
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/oembed/1.0/embed?url=https:%2F%2Fdemo.bosathemes.com%2Fhotelor%2Fcart%2F&format=xml
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\oembed\1.0\embed-41
+Content Type: text/xml
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/oembed/1.0/embed?url=https:%2F%2Fdemo.bosathemes.com%2Fhotelor%2Fconnect-with-the-second-life-here%2F
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\oembed\1.0\embed-36
+Content Type: application/json
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/oembed/1.0/embed?url=https:%2F%2Fdemo.bosathemes.com%2Fhotelor%2Fconnect-with-the-second-life-here%2F&format=xml
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\oembed\1.0\embed-37
+Content Type: text/xml
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/oembed/1.0/embed?url=https:%2F%2Fdemo.bosathemes.com%2Fhotelor%2Fif-you-can-call-it-home-can-call-us%2F
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\oembed\1.0\embed-46
+Content Type: application/json
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/oembed/1.0/embed?url=https:%2F%2Fdemo.bosathemes.com%2Fhotelor%2Fif-you-can-call-it-home-can-call-us%2F&format=xml
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\oembed\1.0\embed-47
+Content Type: text/xml
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/oembed/1.0/embed?url=https:%2F%2Fdemo.bosathemes.com%2Fhotelor%2Fmy-account%2F
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\oembed\1.0\embed-42
+Content Type: application/json
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/oembed/1.0/embed?url=https:%2F%2Fdemo.bosathemes.com%2Fhotelor%2Fmy-account%2F&format=xml
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\oembed\1.0\embed-43
+Content Type: text/xml
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/oembed/1.0/embed?url=https:%2F%2Fdemo.bosathemes.com%2Fhotelor%2Fproduct%2Fbeach-bag%2F
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\oembed\1.0\embed-50
+Content Type: application/json
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/oembed/1.0/embed?url=https:%2F%2Fdemo.bosathemes.com%2Fhotelor%2Fproduct%2Fbeach-bag%2F&format=xml
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\oembed\1.0\embed-51
+Content Type: text/xml
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/oembed/1.0/embed?url=https:%2F%2Fdemo.bosathemes.com%2Fhotelor%2Fproduct%2Fbeach-toy%2F
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\oembed\1.0\embed-52
+Content Type: application/json
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/oembed/1.0/embed?url=https:%2F%2Fdemo.bosathemes.com%2Fhotelor%2Fproduct%2Fbeach-toy%2F&format=xml
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\oembed\1.0\embed-53
+Content Type: text/xml
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/oembed/1.0/embed?url=https:%2F%2Fdemo.bosathemes.com%2Fhotelor%2Fproduct%2Fdiscount-coupon%2F
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\oembed\1.0\embed-56
+Content Type: application/json
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/oembed/1.0/embed?url=https:%2F%2Fdemo.bosathemes.com%2Fhotelor%2Fproduct%2Fdiscount-coupon%2F&format=xml
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\oembed\1.0\embed-57
+Content Type: text/xml
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/oembed/1.0/embed?url=https:%2F%2Fdemo.bosathemes.com%2Fhotelor%2Fproduct%2Fgolden-ticket%2F
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\oembed\1.0\embed-48
+Content Type: application/json
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/oembed/1.0/embed?url=https:%2F%2Fdemo.bosathemes.com%2Fhotelor%2Fproduct%2Fgolden-ticket%2F&format=xml
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\oembed\1.0\embed-49
+Content Type: text/xml
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/oembed/1.0/embed?url=https:%2F%2Fdemo.bosathemes.com%2Fhotelor%2Fproduct%2Fshorts-white%2F
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\oembed\1.0\embed-54
+Content Type: application/json
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/oembed/1.0/embed?url=https:%2F%2Fdemo.bosathemes.com%2Fhotelor%2Fproduct%2Fshorts-white%2F&format=xml
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\oembed\1.0\embed-55
+Content Type: text/xml
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/oembed/1.0/embed?url=https:%2F%2Fdemo.bosathemes.com%2Fhotelor%2Fproduct%2Fwater-shoes%2F
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\oembed\1.0\embed-28
+Content Type: application/json
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/oembed/1.0/embed?url=https:%2F%2Fdemo.bosathemes.com%2Fhotelor%2Fproduct%2Fwater-shoes%2F&format=xml
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\oembed\1.0\embed-29
+Content Type: text/xml
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/oembed/1.0/embed?url=https:%2F%2Fdemo.bosathemes.com%2Fhotelor%2Fstay-once-carry-memories-forever%2F
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\oembed\1.0\embed-44
+Content Type: application/json
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/oembed/1.0/embed?url=https:%2F%2Fdemo.bosathemes.com%2Fhotelor%2Fstay-once-carry-memories-forever%2F&format=xml
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\oembed\1.0\embed-45
+Content Type: text/xml
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/oembed/1.0/embed?url=https:%2F%2Fdemo.bosathemes.com%2Fhotelor%2Ftemplate-kit%2Fabout-us%2F
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/oembed/1.0/embed?url=https:%2F%2Fdemo.bosathemes.com%2Fhotelor%2Ftemplate-kit%2Fabout-us%2F&format=xml
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/oembed/1.0/embed?url=https:%2F%2Fdemo.bosathemes.com%2Fhotelor%2Ftemplate-kit%2Fcareer-details%2F
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/oembed/1.0/embed?url=https:%2F%2Fdemo.bosathemes.com%2Fhotelor%2Ftemplate-kit%2Fcareer-details%2F&format=xml
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/oembed/1.0/embed?url=https:%2F%2Fdemo.bosathemes.com%2Fhotelor%2Ftemplate-kit%2Fcareer-list%2F
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/oembed/1.0/embed?url=https:%2F%2Fdemo.bosathemes.com%2Fhotelor%2Ftemplate-kit%2Fcareer-list%2F&format=xml
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/oembed/1.0/embed?url=https:%2F%2Fdemo.bosathemes.com%2Fhotelor%2Ftemplate-kit%2Fcoming-soon%2F
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\oembed\1.0\embed-32
+Content Type: application/json
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/oembed/1.0/embed?url=https:%2F%2Fdemo.bosathemes.com%2Fhotelor%2Ftemplate-kit%2Fcoming-soon%2F&format=xml
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\oembed\1.0\embed-33
+Content Type: text/xml
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/oembed/1.0/embed?url=https:%2F%2Fdemo.bosathemes.com%2Fhotelor%2Ftemplate-kit%2Fcontact-us%2F
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\oembed\1.0\embed-38
+Content Type: application/json
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/oembed/1.0/embed?url=https:%2F%2Fdemo.bosathemes.com%2Fhotelor%2Ftemplate-kit%2Fcontact-us%2F&format=xml
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\oembed\1.0\embed-39
+Content Type: text/xml
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/oembed/1.0/embed?url=https:%2F%2Fdemo.bosathemes.com%2Fhotelor%2Ftemplate-kit%2Ffaq%2F
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/oembed/1.0/embed?url=https:%2F%2Fdemo.bosathemes.com%2Fhotelor%2Ftemplate-kit%2Ffaq%2F&format=xml
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/oembed/1.0/embed?url=https:%2F%2Fdemo.bosathemes.com%2Fhotelor%2Ftemplate-kit%2Fhome%2F
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/oembed/1.0/embed?url=https:%2F%2Fdemo.bosathemes.com%2Fhotelor%2Ftemplate-kit%2Fhome%2F&format=xml
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/oembed/1.0/embed?url=https:%2F%2Fdemo.bosathemes.com%2Fhotelor%2Ftemplate-kit%2Four-staff%2F
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/oembed/1.0/embed?url=https:%2F%2Fdemo.bosathemes.com%2Fhotelor%2Ftemplate-kit%2Four-staff%2F&format=xml
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/oembed/1.0/embed?url=https:%2F%2Fdemo.bosathemes.com%2Fhotelor%2Ftemplate-kit%2Fpackage-offer%2F
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/oembed/1.0/embed?url=https:%2F%2Fdemo.bosathemes.com%2Fhotelor%2Ftemplate-kit%2Fpackage-offer%2F&format=xml
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/oembed/1.0/embed?url=https:%2F%2Fdemo.bosathemes.com%2Fhotelor%2Ftemplate-kit%2Froom-detail%2F
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/oembed/1.0/embed?url=https:%2F%2Fdemo.bosathemes.com%2Fhotelor%2Ftemplate-kit%2Froom-detail%2F&format=xml
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/oembed/1.0/embed?url=https:%2F%2Fdemo.bosathemes.com%2Fhotelor%2Ftemplate-kit%2Frooms%2F
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/oembed/1.0/embed?url=https:%2F%2Fdemo.bosathemes.com%2Fhotelor%2Ftemplate-kit%2Frooms%2F&format=xml
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/oembed/1.0/embed?url=https:%2F%2Fdemo.bosathemes.com%2Fhotelor%2Ftemplate-kit%2Fservice-detail%2F
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/oembed/1.0/embed?url=https:%2F%2Fdemo.bosathemes.com%2Fhotelor%2Ftemplate-kit%2Fservice-detail%2F&format=xml
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/oembed/1.0/embed?url=https:%2F%2Fdemo.bosathemes.com%2Fhotelor%2Ftemplate-kit%2Fservices%2F
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/oembed/1.0/embed?url=https:%2F%2Fdemo.bosathemes.com%2Fhotelor%2Ftemplate-kit%2Fservices%2F&format=xml
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/oembed/1.0/embed?url=https:%2F%2Fdemo.bosathemes.com%2Fhotelor%2Ftemplate-kit%2Ftestimonial%2F
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/oembed/1.0/embed?url=https:%2F%2Fdemo.bosathemes.com%2Fhotelor%2Ftemplate-kit%2Ftestimonial%2F&format=xml
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/oembed/1.0/embed?url=https:%2F%2Fdemo.bosathemes.com%2Fhotelor%2Fthe-perfect-place-for-the-getaways%2F
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\oembed\1.0\embed-58
+Content Type: application/json
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/oembed/1.0/embed?url=https:%2F%2Fdemo.bosathemes.com%2Fhotelor%2Fthe-perfect-place-for-the-getaways%2F&format=xml
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\oembed\1.0\embed-59
+Content Type: text/xml
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/wp/v2/categories/26
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\wp\v2\categories\26
+Content Type: application/json
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/wp/v2/categories/27
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\wp\v2\categories\27
+Content Type: application/json
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/wp/v2/categories/29
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\wp\v2\categories\29
+Content Type: application/json
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/wp/v2/pages/3217
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\wp\v2\pages\3217
+Content Type: application/json
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/wp/v2/pages/7
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\wp\v2\pages\7
+Content Type: application/json
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/wp/v2/pages/9
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\wp\v2\pages\9
+Content Type: application/json
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/wp/v2/posts/1456
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\wp\v2\posts\1456
+Content Type: application/json
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/wp/v2/posts/1459
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\wp\v2\posts\1459
+Content Type: application/json
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/wp/v2/posts/1464
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\wp\v2\posts\1464
+Content Type: application/json
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/wp/v2/posts/1467
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\wp\v2\posts\1467
+Content Type: application/json
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/wp/v2/product/2858
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\wp\v2\product\2858
+Content Type: application/json
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/wp/v2/product/2866
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\wp\v2\product\2866
+Content Type: application/json
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/wp/v2/product/2867
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\wp\v2\product\2867
+Content Type: application/json
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/wp/v2/product/2868
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\wp\v2\product\2868
+Content Type: application/json
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/wp/v2/product/2869
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\wp\v2\product\2869
+Content Type: application/json
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/wp/v2/product/2870
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\wp\v2\product\2870
+Content Type: application/json
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/wp/v2/product_cat/36
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\wp\v2\product_cat\36
+Content Type: application/json
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/wp/v2/product_cat/37
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\wp\v2\product_cat\37
+Content Type: application/json
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/wp/v2/product_tag/38
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\wp\v2\product_tag\38
+Content Type: application/json
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/wp/v2/product_tag/39
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\wp\v2\product_tag\39
+Content Type: application/json
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/wp/v2/product_tag/40
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\wp\v2\product_tag\40
+Content Type: application/json
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/wp/v2/product_tag/41
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\wp\v2\product_tag\41
+Content Type: application/json
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/wp/v2/product_tag/42
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\wp\v2\product_tag\42
+Content Type: application/json
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/wp/v2/product_tag/43
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\wp\v2\product_tag\43
+Content Type: application/json
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/wp/v2/product_tag/44
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\wp\v2\product_tag\44
+Content Type: application/json
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/wp/v2/product_tag/45
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\wp\v2\product_tag\45
+Content Type: application/json
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/wp/v2/product_tag/46
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\wp\v2\product_tag\46
+Content Type: application/json
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/wp/v2/product_tag/47
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\wp\v2\product_tag\47
+Content Type: application/json
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/wp/v2/product_tag/48
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\wp\v2\product_tag\48
+Content Type: application/json
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/wp/v2/product_tag/49
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\wp\v2\product_tag\49
+Content Type: application/json
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/wp/v2/product_tag/50
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\wp\v2\product_tag\50
+Content Type: application/json
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/wp/v2/tags/30
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\wp\v2\tags\30
+Content Type: application/json
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/wp/v2/tags/31
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\wp\v2\tags\31
+Content Type: application/json
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/wp/v2/tags/32
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\wp\v2\tags\32
+Content Type: application/json
+
+Uri: https://demo.bosathemes.com/hotelor/wp-json/wp/v2/tags/33
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\hotelor\wp-json\wp\v2\tags\33
+Content Type: application/json
+
+Uri: https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Cormorant+Garamond:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Lora:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Montserrat:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=6.7.1
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Cormorant+Garamond:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Lora:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=6.7.1
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/cormorantgaramond/v16/co3bmX5slCNuHLi8bLeY9MK7whWMhyjYqXtP.ttf
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\s\cormorantgaramond\v16\co3bmX5slCNuHLi8bLeY9MK7whWMhyjYqXtP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorantgaramond/v16/co3WmX5slCNuHLi8bLeY9MK7whWMhyjYrEO7uj-KzhY.ttf
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\s\cormorantgaramond\v16\co3WmX5slCNuHLi8bLeY9MK7whWMhyjYrEO7uj-KzhY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorantgaramond/v16/co3WmX5slCNuHLi8bLeY9MK7whWMhyjYrEOXvT-KzhY.ttf
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\s\cormorantgaramond\v16\co3WmX5slCNuHLi8bLeY9MK7whWMhyjYrEOXvT-KzhY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorantgaramond/v16/co3WmX5slCNuHLi8bLeY9MK7whWMhyjYrEPjuz-KzhY.ttf
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\s\cormorantgaramond\v16\co3WmX5slCNuHLi8bLeY9MK7whWMhyjYrEPjuz-KzhY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorantgaramond/v16/co3WmX5slCNuHLi8bLeY9MK7whWMhyjYrEPzvD-KzhY.ttf
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\s\cormorantgaramond\v16\co3WmX5slCNuHLi8bLeY9MK7whWMhyjYrEPzvD-KzhY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorantgaramond/v16/co3YmX5slCNuHLi8bLeY9MK7whWMhyjQAllfvg-N.ttf
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\s\cormorantgaramond\v16\co3YmX5slCNuHLi8bLeY9MK7whWMhyjQAllfvg-N.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorantgaramond/v16/co3YmX5slCNuHLi8bLeY9MK7whWMhyjQdl9fvg-N.ttf
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\s\cormorantgaramond\v16\co3YmX5slCNuHLi8bLeY9MK7whWMhyjQdl9fvg-N.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorantgaramond/v16/co3YmX5slCNuHLi8bLeY9MK7whWMhyjQEl5fvg-N.ttf
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\s\cormorantgaramond\v16\co3YmX5slCNuHLi8bLeY9MK7whWMhyjQEl5fvg-N.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorantgaramond/v16/co3YmX5slCNuHLi8bLeY9MK7whWMhyjQWlhfvg-N.ttf
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\s\cormorantgaramond\v16\co3YmX5slCNuHLi8bLeY9MK7whWMhyjQWlhfvg-N.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorantgaramond/v16/co3ZmX5slCNuHLi8bLeY9MK7whWMhyjYrEtImS8.ttf
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\s\cormorantgaramond\v16\co3ZmX5slCNuHLi8bLeY9MK7whWMhyjYrEtImS8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lora/v35/0QI6MX1D_JOuGQbT0gvTJPa787weuxJBkqg.ttf
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\s\lora\v35\0QI6MX1D_JOuGQbT0gvTJPa787weuxJBkqg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lora/v35/0QI6MX1D_JOuGQbT0gvTJPa787wsuxJBkqg.ttf
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\s\lora\v35\0QI6MX1D_JOuGQbT0gvTJPa787wsuxJBkqg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lora/v35/0QI6MX1D_JOuGQbT0gvTJPa787z5vBJBkqg.ttf
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\s\lora\v35\0QI6MX1D_JOuGQbT0gvTJPa787z5vBJBkqg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lora/v35/0QI6MX1D_JOuGQbT0gvTJPa787zAvBJBkqg.ttf
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\s\lora\v35\0QI6MX1D_JOuGQbT0gvTJPa787zAvBJBkqg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lora/v35/0QI8MX1D_JOuMw_hLdO6T2wV9KnW-BQCoq92mQ.ttf
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\s\lora\v35\0QI8MX1D_JOuMw_hLdO6T2wV9KnW-BQCoq92mQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lora/v35/0QI8MX1D_JOuMw_hLdO6T2wV9KnW-C0Coq92mQ.ttf
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\s\lora\v35\0QI8MX1D_JOuMw_hLdO6T2wV9KnW-C0Coq92mQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lora/v35/0QI8MX1D_JOuMw_hLdO6T2wV9KnW-MoFoq92mQ.ttf
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\s\lora\v35\0QI8MX1D_JOuMw_hLdO6T2wV9KnW-MoFoq92mQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lora/v35/0QI8MX1D_JOuMw_hLdO6T2wV9KnW-PgFoq92mQ.ttf
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\s\lora\v35\0QI8MX1D_JOuMw_hLdO6T2wV9KnW-PgFoq92mQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXh0ow.ttf
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\s\montserrat\v29\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXh0ow.ttf
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\s\montserrat\v29\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXh0ow.ttf
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\s\montserrat\v29\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXh0ow.ttf
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\s\montserrat\v29\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXh0ow.ttf
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\s\montserrat\v29\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXh0ow.ttf
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\s\montserrat\v29\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXh0ow.ttf
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\s\montserrat\v29\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXh0ow.ttf
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\s\montserrat\v29\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXh0ow.ttf
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\s\montserrat\v29\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw5aX8.ttf
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w5aX8.ttf
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw5aX8.ttf
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1y4n.ttf
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1y4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1y4n.ttf
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1y4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4n.ttf
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4n.ttf
+Content Type: font/ttf
+
+Uri: https://secure.gravatar.com/avatar/07151abd63bde9f0d6cbfc452572d5a0?s=300&d=mm&r=g
+File Name: C:\VERSAI TECHNOLOGY\New_Sunway_Resort\demo.bosathemes.com\avatar\07151abd63bde9f0d6cbfc452572d5a0.png
+Content Type: image/jpeg
+
