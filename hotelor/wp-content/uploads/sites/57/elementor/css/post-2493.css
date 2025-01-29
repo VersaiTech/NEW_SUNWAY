@@ -140,6 +140,52 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+ /* ----------------room section image---------- */
+#myid-1{
+    background-image: url("../../2024/08/image-46.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#myid-2{
+    background-image: url("../../2024/08/image-47.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#myid-3{
+    background-image: url("../../2024/08/image-48.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#myid-4{
+    background-image: url("../../2024/08/image-49.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#myid-5{
+    background-image: url("../../2024/08/image-50.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#myid-6{
+    background-image: url("../../2024/08/image-48.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#myid-7{
+    background-image: url("../../2024/08/image-52.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
 .elementor-2493 .elementor-element.elementor-element-d874645 {
     --display: flex;
@@ -776,7 +822,7 @@
 .elementor-2493 .elementor-element.elementor-element-f4f1736>.elementor-background-slideshow::before,
 .elementor-2493 .elementor-element.elementor-element-f4f1736>.e-con-inner>.elementor-background-slideshow::before,
 .elementor-2493 .elementor-element.elementor-element-f4f1736>.elementor-motion-effects-container>.elementor-motion-effects-layer::before {
-    background-image: url("../../2024/08/line-bg-1.png");
+    background-image: url("../../2024/08/line-bg-1.png");                   
     --background-overlay: '';
     background-position: center center;
     background-repeat: no-repeat;
