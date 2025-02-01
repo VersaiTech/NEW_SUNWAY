@@ -61,7 +61,7 @@
 }
 
 .elementor-2111 .elementor-element.elementor-element-e19aa27 .elementor-heading-title {
-    font-family: var(--e-global-typography-primary-font-family), Sans-serif;
+    font-family: serif, var(--e-global-typography-primary-font-family), Sans-serif;
     font-size: var(--e-global-typography-primary-font-size);
     font-weight: var(--e-global-typography-primary-font-weight);
     line-height: var(--e-global-typography-primary-line-height);
@@ -122,7 +122,7 @@
 .elementor-2111 .elementor-element.elementor-element-cd34a05 .elementskit-section-title-wraper .elementskit-section-title {
     color: var(--e-global-color-primary);
     margin: 0px 0px 20px 0px;
-    font-family: var(--e-global-typography-61eed76-font-family), Sans-serif;
+    font-family: serif, var(--e-global-typography-61eed76-font-family), Sans-serif;
     font-size: var(--e-global-typography-61eed76-font-size);
     font-weight: var(--e-global-typography-61eed76-font-weight);
     text-transform: var(--e-global-typography-61eed76-text-transform);
@@ -549,7 +549,7 @@ body:not(.rtl) .elementor-2111 .elementor-element.elementor-element-34972a6 .ele
 .elementor-2111 .elementor-element.elementor-element-0ee4839 .elementskit-section-title-wraper .elementskit-section-title {
     color: var(--e-global-color-primary);
     margin: 0px 0px 20px 0px;
-    font-family: var(--e-global-typography-61eed76-font-family), Sans-serif;
+    font-family: serif, var(--e-global-typography-61eed76-font-family), Sans-serif;
     font-size: var(--e-global-typography-61eed76-font-size);
     font-weight: var(--e-global-typography-61eed76-font-weight);
     text-transform: var(--e-global-typography-61eed76-text-transform);
